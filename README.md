@@ -53,7 +53,7 @@ Create a **new column** called `Equality Class` to categorize the `Equality Scor
 - GitHub project setup and documentation
 
 ## Certificate
-
+<img width="1397" height="802" alt="Deloitte" src="https://github.com/user-attachments/assets/ce4d16d6-eb4a-4cc5-82c8-a2dee577f8f6" />
 
 
 Feel free to explore the project files and reach out if you have any suggestions!
